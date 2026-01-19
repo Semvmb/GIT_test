@@ -1,2 +1,3 @@
 # GIT_test
-test repo git
+## dit is een test
+leren werken met git 6ICW, we doen ons *best*. Straks kopiëren we dit **lokaal**.
